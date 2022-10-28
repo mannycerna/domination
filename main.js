@@ -17,8 +17,8 @@ function setImage(id, url){
     image.src = url;
 }
 setImage('image-1', 'https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928__480.jpg');
-setImage('image-2', 'https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928__480.jpg');
-setImage('image-3', 'https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928__480.jpg' );
+setImage('image-2', 'https://en.most-famous-paintings.com/Art.nsf/O/9CW6ZG/$File/John+Linnell-Landscape+With+A+Wood+And+A+Windmill+Under+Storm+Clouds.JPG');
+setImage('image-3', 'https://c1.wallpaperflare.com/preview/442/618/508/night-view-city-light-sea.jpg' );
 
 // This next function also doesn't require any parameters: write a function that always removes the first <li> from the Arguments <ul>
 // Now use it to remove the first two items from that list. You'll need to call it twice!
